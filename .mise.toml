@@ -1,0 +1,21 @@
+# SPDX-FileCopyrightText: 2025 The Open Source Project Template Authors
+#
+# SPDX-License-Identifier: CC0-1.0
+
+# Tool versions for mise (https://mise.jdx.dev/)
+# Install all tools: mise install
+# Activate in shell: eval "$(mise activate bash)"
+
+[settings]
+experimental = true  # Enable experimental features (required for ubi backend)
+#lockfile = true      # Enable lockfile with checksum verification for all downloads not avail yet
+paranoid = true      # Enable strict security checks and verification
+
+[tools]
+"aqua:casey/just" = "1.43.0"
+"ubi:rvben/rumdl" = "v0.0.157"
+"aqua:google/yamlfmt" = "v0.17.2"
+"aqua:rhysd/actionlint" = "v1.7.8"
+"aqua:zricethezav/gitleaks" = "v8.28.0"
+"aqua:siderolabs/conform" = "v0.1.0-alpha.30"
+"github:italia/publiccode-parser-go" = "v4.3.7"
