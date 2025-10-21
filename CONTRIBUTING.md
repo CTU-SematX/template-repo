@@ -1,13 +1,6 @@
-<!--
-SPDX-FileCopyrightText: 2025 The Open Source Project Template Authors
-
-SPDX-License-Identifier: CC0-1.0
--->
+ 
 
 # Contributing
-
-<!-- This file is for contributing to the Open Source Project Template itself.
-     For a template to use in your project, see templates/CONTRIBUTING.md -->
 
 [![Conventional Commits](https://img.shields.io/badge/Conventional%20Commits-1.0.0-%23FE5196?style=for-the-badge&logo=conventionalcommits&logoColor=white)](https://conventionalcommits.org)
 [![Code of Conduct](https://img.shields.io/badge/Code%20of%20Conduct-2.1-4baaaa.svg?style=for-the-badge)](CODE_OF_CONDUCT.md)
@@ -66,7 +59,7 @@ To contribute code, documentation, or other improvements:
 
 ## Issues and Pull Request Feedback
 
-Project maintainers aim to review and respond to issues within five business days.
+Project maintainers aim to review and respond to issues within [INSERT_DAYS] business days.
 
 The quality of information in your issue or pull request affects the speed of feedback.
 
@@ -80,13 +73,7 @@ We use the [Fork-and-Pull Model](https://docs.github.com/en/pull-requests/collab
 
 1. Fork the repository.
 2. Create a topic branch from your fork's main branch.
-3. Make your changes and run quality checks locally:
-
-   ```bash
-   just verify  # Run all quality verifications
-   ```
-
-   See [DEVELOPMENT.md](DEVELOPMENT.md) for details.
+3. Make your changes and run quality checks locally (if applicable).
 4. Push your changes to the topic branch in your fork.
 5. Open a new pull request to the main project.
 6. Respond to any feedback from project maintainers.

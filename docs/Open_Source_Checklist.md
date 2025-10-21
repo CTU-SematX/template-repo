@@ -1,8 +1,4 @@
-<!--
-SPDX-FileCopyrightText: 2025 The Open Source Project Template Authors
-
-SPDX-License-Identifier: CC0-1.0
--->
+ 
 
 # The Open Source Checklist
 

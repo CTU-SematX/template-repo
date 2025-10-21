@@ -1,6 +1,4 @@
-# SPDX-FileCopyrightText: 2025 The Open Source Project Template Authors
-#
-# SPDX-License-Identifier: CC0-1.0
+
 
 # IDE
 .vscode
@@ -15,9 +13,3 @@ mega-linter-reports
 .ruff_cache
 __pycache__
 
-# Tool version managers
-.mise
-
-# OS files
-.DS_Store
-Thumbs.db

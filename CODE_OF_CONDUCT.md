@@ -6,9 +6,6 @@ SPDX-License-Identifier: CC-BY-4.0
 
 # Contributor Covenant Code of Conduct
 
-<!-- This file is for contributing to the Open Source Project Template itself.
-     For a template to use in your project, see templates/CODE_OF_CONDUCT.md -->
-
 ## Our Pledge
 
 We as members, contributors, and leaders pledge to make participation in our
@@ -68,7 +65,8 @@ representative at an online or offline event.
 ## Enforcement
 
 Instances of abusive, harassing, or otherwise unacceptable behavior may be
-reported to the community leaders responsible for enforcement at <ospo@digg.se>.
+reported to the community leaders responsible for enforcement at
+[INSERT_CONTACT_METHOD].
 All complaints will be reviewed and investigated promptly and fairly.
 
 All community leaders are obligated to respect the privacy and security of the
